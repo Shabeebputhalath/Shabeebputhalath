@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="./assets/banner.png" alt="GitHub Banner" width="100%">
+
+# Hey 👋, I'm **Shabeeb Puthalath**
+
+### Full-Stack Developer | React • Next.js • TypeScript • Node.js • AI
+
+Building modern, scalable and user-focused web applications.
+
+</div>
+
 # 💫 About Me:
 Hey, I'm Shabeeb Puthalath — a Full-Stack Developer passionate about building modern web applications with React, Next.js, TypeScript, Node.js, and AI.
 
